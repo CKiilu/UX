@@ -2,7 +2,7 @@
 
 ## INTRODUCTION
 
-Creation of software based on the needs and interests of the user to make projects easy for users to use and comprehend how they work.
+This design of software based on the needs and interests of the user to make projects easy for users to use and comprehend how they work.
 
 Designs should:
 
