@@ -1,3 +1,3 @@
 # UX
-User Based Design
+Notes on user based design.
 
