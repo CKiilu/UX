@@ -110,3 +110,19 @@ To ensure a system is secure sensitive parts should be left cryptic by:
 4. Not giving feedback
 
 5. Using unnatural mappings for the evaluation side of the action cycle to make system state difficult to interpret
+ 
+### EASY LOOKING IS NOT EASY TO USE
+
+Devices which are simple in nature but perform a wide range of tasks become difficult to use due to few controls. 
+
+Increasing the number of controls requires the user to learn more about a device to find the appropriate control. Therefore, complexity of device usage is increased. 
+
+To make something easy to use the number of controls should be matched to the number of functions and panels should be organized according to function.
+
+### DESIGN AND SOCIETY
+
+Tools bring dramatic changes to society from the invention of everyday things. They not only ease tasks but also people's view of themselves and the world.
+
+Designs' effectson society therefore has political significance as design philosophies vary in different political systems.
+
+Good design exploit the power of constraints and uses forcing functions and visble outcomes of data to prevent confusion and errors in everyday life. This improves the quality of life.
