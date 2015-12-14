@@ -123,6 +123,6 @@ To make something easy to use the number of controls should be matched to the nu
 
 Tools bring dramatic changes to society from the invention of everyday things. They not only ease tasks but also people's view of themselves and the world.
 
-Designs' effectson society therefore has political significance as design philosophies vary in different political systems.
+Designs' effects on society therefore has political significance as design philosophies vary in different political systems.
 
-Good design exploit the power of constraints and uses forcing functions and visble outcomes of data to prevent confusion and errors in everyday life. This improves the quality of life.
+Good design exploits the power of constraints and uses forcing functions and visible outcomes of data to prevent confusion and errors in everyday life. This improves the quality of life.
