@@ -68,7 +68,7 @@ The system should show how actions match intentions.
 
 The user should be able to understand the relationship between:
 
-1. Intentinons and actions
+1. Intentions and actions
 
 2. Actions and their effects
 
